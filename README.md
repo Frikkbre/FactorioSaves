@@ -1,7 +1,15 @@
-#[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RyiBKJgD)
 # Factorio saves
 
-## Project description
+## Prosjekt beskrivelse
+Automatisere lagringen og delingen av Factorio saves mellom flere maskiner eller personer.
 
-[//]
-To automaticly save factorio saves to keep a version controll aswell as keeping saves avalible for multiple machines.
+## Hvordan bruke appen
+Clone repoet ned til en python IDE, samt ```main.py``` filen som du finne <a href="main.py">her</a>
+
+Sjekk at du står på riktig directory med kommandoen ```ls``` og sjekk at det er plasseringen til git repoet ved hjelp av ```git status```. Hvis det ikke er riktig, benytt ```cd``` til å finne riktig.
+
+Kjøre deretter main.py filen og velg mellom 1 eller 2 ettersom hvilken prosess du ønsker å kjøre.
+
+## Laget av
+Frikk Brændsrød <br>
+11.01.2025
